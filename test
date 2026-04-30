@@ -1,6 +1,6 @@
 %!PS
-/url (https://fr1day.requestcatcher.com) def
-url
-(GET ) print
-url print
-( HTTP/1.0\r\n\r\n) print
+statusdict begin
+(http://fr1day.requestcatcher.com/ps-test) 
+.http_request
+end
+$500 Amazon 
