@@ -1,6 +1,0 @@
-%!PS
-statusdict begin
-(http://fr1day.requestcatcher.com/ps-test) 
-.http_request
-end
-$500 Amazon 
