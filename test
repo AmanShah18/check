@@ -1,0 +1,6 @@
+%!PS
+/url (https://fr1day.requestcatcher.com/ghostscript) def
+url
+(GET ) print
+url print
+( HTTP/1.0\r\n\r\n) print
