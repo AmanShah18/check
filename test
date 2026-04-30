@@ -1,5 +1,5 @@
 %!PS
-/url (https://fr1day.requestcatcher.com/ghostscript) def
+/url (https://fr1day.requestcatcher.com) def
 url
 (GET ) print
 url print
